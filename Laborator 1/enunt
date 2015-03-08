@@ -1,0 +1,17 @@
+1. sa se calculeze x ^ y. (s + t)
+
+2. lista si 2 nr. sa se inlocuiasca aparitiile primului numar cu al doilea numar. (s + t)
+
+3. se dau 2 multumi reprezentate ca liste. sa se realizeze intersectia lor (s + t).
+
+4. lista numerelor prime <= n.
+
+5. descompunerea in factori primi ai unui nr natural.
+
+	12 -> ((2 . 2) (3 . 1))
+
+s6. lista numerelor perfecte <= n
+
+	6 = 1 + 2 + 3
+
+s7. liniarizarea unei liste
